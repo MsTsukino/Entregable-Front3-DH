@@ -1,5 +1,5 @@
 import React from "react"
-
+import './index.css'
 
 // El componente Item no tiene componentes hijos.
 // ESTADO: Item debe tener un número para almacenar la cantidad de stock, la misma se la defina el padre a la hora de crearlo.
