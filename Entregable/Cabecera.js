@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './index.css'
 // El componente Cabera no tiene componentes hijos.
 // ESTADO: Cabecera no tiene estado.
 // MÉTODOS: Cabecera no tiene métodos.
